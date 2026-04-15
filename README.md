@@ -17,8 +17,13 @@ I'm a Software Developer focused on building efficient, scalable solutions and c
 
 ### 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvaro-dbg5&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-dbg5&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvaro-dbg5&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-dbg5ayout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ### 📫 Connect with me
 
