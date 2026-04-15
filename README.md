@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! I'm Alvaro Benito 👋
 
-<!--
-**alvaro-dbg5/alvaro-dbg5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer focused on building efficient, scalable solutions and creating high-quality code. I am passionate about continuous learning and solving complex problems through technology.
 
-Here are some ideas to get you started:
+### 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on enhancing my software development expertise.
+- 🌱 I’m currently deepening my knowledge in **React, Java, Springboot and Microservices architecture**.
+- 👯 I’m looking to collaborate on open-source projects that have a meaningful impact.
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Java, JavaScript (ES6+), Elixir, SQL.
+- **Frameworks/Libraries:** Spring Boot, React, Angular.
+- **Infrastructure & Tools:** Git, Docker, Postman.
+- **Databases:** MySQL, MongoDB.
+
+### 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvaro-dbg5&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-dbg5&layout=compact&theme=radical)
+
+### 📫 Connect with me
+
+- **LinkedIn:** [linkedin.com/in/alvaro-benito](linkedin.com/in/alvaro-benito)
+- **Email:** alvaro.dbg5@hotmail.com
+
+---
+*"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
