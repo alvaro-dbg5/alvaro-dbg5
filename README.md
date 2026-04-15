@@ -22,7 +22,7 @@ I'm a Software Developer focused on building efficient, scalable solutions and c
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-dbg5ayout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-dbg5&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 📫 Connect with me
